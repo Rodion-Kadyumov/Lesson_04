@@ -1,0 +1,7 @@
+tmp/
+*_old
+*_backup
+.DS_Store
+# img/
+# .md
+# private/todo.md
